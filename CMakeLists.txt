@@ -75,6 +75,7 @@ target_link_libraries(${PROJECT_NAME} PUBLIC
   rviz_ogre_vendor::OgreMain
   rviz_ogre_vendor::OgreOverlay
   rviz_common::rviz_common
+  rviz_default_plugins::rviz_default_plugins
 )
 
 
